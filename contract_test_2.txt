@@ -1,0 +1,93 @@
+<h2><strong>@branchname@ &amp; @company@</strong></h2>
+
+<p><strong>@isrenew@ </strong>This contract document briefly covers what we will do and what it will cost.</p>
+
+<h2>What We Will Do For You</h2>
+
+<h3>For Your Facebook MPPC Campaign Build We Will*:</h3>
+
+<ul>
+	<li>Setup or audit of current Facebook Business Page optimised for Facebook Search</li>
+	<li>Conduct a 30 minute welcome call consultation</li>
+	<li>Agree and confirm a specific campaign goal to a specific audience</li>
+	<li>Conduct competitor analysis</li>
+	<li>Design and setup your new Facebook Advert (using advanced targeting options)</li>
+	<li>Install conversion tracking</li>
+	<li>Set your Facebook campaign live</li>
+</ul>
+
+<p>*All subject to sufficient site access, username and passwords being provided.</p>
+
+<h3>Your ongoing Campaign Management:</h3>
+
+<p>Once the initial set up is complete we will continue to develop and optimise your campaign(s) to help reach the specified objective(s). Clear deliverables will be agreed between the customer and their Social Media account manager to ensure relevant results and a transparent relationship.</p>
+
+<p>The assigned a Social Media account manager will provide the following services:</p>
+
+<ul>
+	<li>A new monthly designed and constructed advert creative</li>
+	<li>Continued optimisation of your ad&rsquo;s performance based on agreed objectives</li>
+	<li>Innovate segmentations and demographic targeting to maximise impact</li>
+	<li>Analyse behavioural data to ensure campaign evolution</li>
+	<li>Provide&nbsp;monthly transparent performance reports</li>
+	<li>30 minute quarterly (every 3 months) call to go over results and outline strategy for the following 3 months</li>
+	<li>Dedicated support from our Social Media experts</li>
+</ul>
+
+<h3>Responsibilities:</h3>
+
+<p>Our team of Social Media experts will undertake work on your Facebook account based on the information obtained from the customer, Facebook insights, relevant market data and any other existing analytical software. We will agree KPI&rsquo;s (key performance indicators) based on the company&rsquo;s objectives<strong>;&nbsp;</strong>however this campaign is not responsible for the performance of your website.</p>
+
+<h3>Service Fees:</h3>
+
+<table>
+	<tbody>
+		<tr>
+			<th>&nbsp;</th>
+			<th>One Off Fee</th>
+			<th>Monthly Fee</th>
+		</tr>
+		<tr>
+			<td>Page Audit/Setup &amp; Campaign Launch&nbsp;</td>
+			<td>
+			<p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong></p>
+
+			<p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; @initial@ &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </strong></p>
+
+			<p>&nbsp;</p>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp; Monthly Ad Management &nbsp; &nbsp; &nbsp;</td>
+			<td>&nbsp;</td>
+			<td>
+			<p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong></p>
+
+			<p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; @recurringfee@ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; </strong></p>
+
+			<p><strong>&nbsp;</strong></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>*All fees are subject to&nbsp;VAT.&nbsp;</p>
+
+<p><strong>Under the terms of this agreement it is the customer&rsquo;s responsibility to provide relevant funds for marketing activities paid directly to Facebook.</strong></p>
+
+<p>@currencynote@</p>
+
+<p>@paymentnote@</p>
+
+<h3>Duration of Contract</h3>
+
+<p>This Contract shall apply for a minimum of @contractlen@ months from the date of the acceptance of this contract. Thereafter the contract will continue on a rolling basis and can only be terminated providing 28 days written notice to Add Media (Group) Ltd.</p>
+
+<h2>What Happens Now?</h2>
+
+<p>If you are happy to proceed, simply reply to this email stating you accept these terms and we will get to work right away!</p>
+
+<p>To find out more about Add People please visit our @website@. You can also read our full &nbsp;@tandc@&nbsp;here.</p>
+
+<p>We look forward to working with you.</p>

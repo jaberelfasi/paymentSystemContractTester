@@ -1,0 +1,38 @@
+<h1><strong>@branchname@ &amp;&nbsp;@company@</strong></h1>
+
+<p>Thank you for choosing Add People to build you brand new Business Lite website.</p>
+
+<p>This email covers what we will do and what it will cost.</p>
+
+<p><strong>Your New Website</strong></p>
+
+<p>We will build you a brand new lead generation website containing the following features and deliverables.</p>
+
+<ul>
+	<li>Professional Design</li>
+	<li>Professionally written content</li>
+	<li>Up to 3 pages populated with content and images</li>
+	<li>Up to 6 free professional images from our own library</li>
+	<li>Mobile, tablet, PC friendly design</li>
+	<li>Compatible with all major browsers</li>
+	<li>W3C validated HTML</li>
+	<li>One .co.uk domain &ndash; if required</li>
+	<li>Forward up to two email address to an externally supported email account</li>
+	<li>Contact form for lead capture</li>
+	<li>Click to call functionality</li>
+	<li>Social media buttons &ndash; links required at consultation stage</li>
+	<li>Video integration &ndash; YouTube / Vimeo</li>
+	<li>Photo gallery</li>
+	<li>Map integration</li>
+	<li>External RSS feed integration</li>
+	<li>Customer testimonials</li>
+	<li>Image slider</li>
+	<li>Analytics installation &ndash; logins required at consultation stage</li>
+	<li>Best practice SEO</li>
+	<li>Submission to Google &amp; Bing</li>
+	<li>Free website refresh after 24 months upon contract renewal</li>
+</ul>
+
+<p>Before we begin your project, you will receive a consultation call to agree your content requirements and confirm the project timescales.</p>
+
+<p><strong>Service Fees:</strong></p>

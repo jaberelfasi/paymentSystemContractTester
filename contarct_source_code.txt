@@ -1,0 +1,76 @@
+<h1><strong>@branchname@ &amp; @company@</strong></h1>
+
+<p><strong>@isrenew@</strong> This contract document briefly covers what we will do and what it will cost.</p>
+
+<h2>Summary of Your Service</h2>
+
+<p>We will build you a new Google AdWords campaign to channel your paid search traffic and offer a helpdesk service to provide ongoing support and reporting on your campaign. &nbsp;</p>
+
+<h2>What We Will Do For You</h2>
+
+<p>For your PPC campaign build we will:</p>
+
+<ul>
+	<li>Conduct keyword research and analysis</li>
+	<li>Create your brand new Google AdWords account (if required)</li>
+	<li>Build your brand new Google AdWords campaign</li>
+	<li>Segment your keywords into targeted Ad Groups</li>
+	<li>Compose ad copy to attract visitors, tailored by Ad Group</li>
+	<li>Launch your AdWords campaign</li>
+	<li>Install and link Google Analytics to your Google Adwords account (if required)</li>
+</ul>
+
+<p>Your Ongoing Helpdesk Support</p>
+
+<p>You will have access to our team of PPC experts, who will provide the following services:</p>
+
+<ul>
+	<li>Conduct a monthly review of your AdWords campaign</li>
+	<li>Make changes to your AdWords campaign to improve performance</li>
+	<li>Provide monthly performance reporting</li>
+	<li>Suggest strategies and additional products that could help your business</li>
+</ul>
+
+<p>Our Responsibilities</p>
+
+<p>Our team of experts will undertake work on your Google AdWords campaign based on any previous results available and the information you provide us about your business, however we are not responsible for the performance of your website which will affect the number of conversions and sales we achieve.</p>
+
+<h2>Service Fees:</h2>
+
+<table>
+	<tbody>
+		<tr>
+			<th>Description</th>
+			<th>One off fee</th>
+			<th>Monthly fee</th>
+		</tr>
+		<tr>
+			<td>
+			<p>&nbsp; Your PPC Campaign Build, Support &amp; Launch &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+			</td>
+			<td><strong>&nbsp; &nbsp; &nbsp; &nbsp;@initial@ &nbsp; &nbsp; &nbsp; &nbsp;</strong></td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+			<p>&nbsp;&nbsp; Monthly PPC Review, Support, Inbound Helpdesk</p>
+			</td>
+			<td>&nbsp;</td>
+			<td><strong>&nbsp; &nbsp; &nbsp;@recurringfee@ &nbsp; &nbsp; &nbsp;</strong></td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong>@currencynote@</strong></p>
+
+<p><strong>@paymentnote@</strong></p>
+
+<p>This agreement shall apply for a minimum of&nbsp; @contractlen@ months from the date of the acceptance of this contract. &nbsp;Thereafter the contract will continue on a rolling basis with a notice period of 1 complete billing&nbsp;month.</p>
+
+<p>Your service contract shall apply for a minimum of @contractlen@ months from the date of acceptance, after this point the monthly payment will resume at the rate of <strong>@recurringfee@ &nbsp;</strong>per month, your service will continue on a rolling basis with a notice period of 1 month.</p>
+
+<p>*All fees are subject to&nbsp;VAT.</p>
+
+<h2>What Happens Now?</h2>
+
+<p>If you would like to know more about Add People take a look at our @website@&nbsp;or read our full&nbsp;@tandc@</p>
